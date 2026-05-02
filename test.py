@@ -9,7 +9,8 @@ def multiply(a,b):
     
 def substract(a,b):
     return abs(a-b)
-    
+
+
 def run_command(user_input):
     os.system(user_input)
 
