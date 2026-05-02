@@ -14,7 +14,8 @@ def slow_function(data):
     for i in data:
         for j in data:
             print(i, j)  
-            
+
+
 if __name__=='__main__':
     user = input("Enter command: ")
 
