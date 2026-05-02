@@ -10,6 +10,7 @@ def substract(a,b):
 def run_command(user_input):
     os.system(user_input)
 
+
 def slow_function(data):
     for i in data:
         for j in data:
